@@ -36,11 +36,3 @@ This application gives the user the ability to search for recipes based on keywo
 * Tevin Ward [github.com/TevinWard7/Recipes-Project](https://github.com/TevinWard7/Recipes-Project) - Created Advanced Search form and AJAX API query requests for Advanced Search form. Also created delete express route to remove recipes from the recipe book.
   
 Spoonacular API [spoonacular.com/](https://spoonacular.com/) 
-
-## License 
-There is not a license for this application. 
-
-## Questions 
-![GitHub Profile Image](https://avatars.githubusercontent.com/u/6642173?) 
-
- njr7romano@yahoo.com
